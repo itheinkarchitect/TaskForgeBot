@@ -2,3 +2,4 @@ config.py
 database.db
 venv/
 .env
+__pycache__/
